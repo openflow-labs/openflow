@@ -26,13 +26,13 @@ OpenFlow uses cutting-edge cryptography to balance transparency and privacy in f
 
 ## About
 
-**OpenFlow** is an open-source project developed by [Nicolás Biondini](https://github.com/NicolasBiondini), [Yago Pajariño](https://github.com/yagopajarino), [Alejandro Almaraz](https://github.com/almaraz97), [Nicolás Acosta] and [Arturo Beccar-Varela](https://github.com/arturoBeccar). With expertise in blockchain, cryptography, and front-end development, we aim to bring trust and privacy to financial transactions.
+**OpenFlow** is an open-source project developed by [Nicolás Biondini](https://github.com/NicolasBiondini), [Yago Pajariño](https://github.com/yagopajarino), [Alejandro Almaraz](https://github.com/almaraz97), [Nicolás Acosta](https://github.com/NicoAcosta) and [Arturo Beccar-Varela](https://github.com/arturoBeccar). With expertise in blockchain, cryptography, and front-end development, we aim to bring trust and privacy to financial transactions.
 
 ## Acknowledgements
 
 OpenFlow was initially developed as part of the [Aleph Crecimiento Hackathon, 2024](https://www.aleph.crecimiento.build/en-aleph-hackathon). We participated in this hackathon through the [PSE Core Program](https://pse.dev/en/programs), where we deepened our knowledge of programmable cryptography and zero-knowledge proofs.
 
-[We decided to partner with Nico Acosta and D&D Foundation to think t](https://ddfundacion.org/).
+In partnership with [D&D Fundacion](https://ddfundacion.org/), we are committed to solving the transparency and privacy problems that prevent help from reaching those who need it.
 
 ## License
 
