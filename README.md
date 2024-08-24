@@ -3,7 +3,7 @@
 ![License: AGPLv3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg) 
 
 <p align="center">
-  <img src="./assets/openflow-banner.png" alt="OpenFlow: Privacy-Preserving Financial Auditing" width="100"/>
+  <img src="./assets/openflow-banner.png" alt="OpenFlow: Privacy-Preserving Financial Auditing" width="422"/>
 </p>
 
 ## Project Overview
