@@ -65,7 +65,7 @@ flowchart TD
 
 OpenFlow was initially developed as part of the [Aleph Crecimiento Hackathon, 2024](https://www.aleph.crecimiento.build/en-aleph-hackathon). We participated in this hackathon through the [PSE Core Program](https://pse.dev/en/programs), where we deepened our knowledge of programmable cryptography and zero-knowledge proofs.
 
-In partnership with [D&D Fundacion](https://ddfundacion.org/), we are committed to solving the transparency and privacy problems that prevent help from reaching those who need it.
+In partnership with [D&D Fundacion](https://ddfundacion.org/), we are committed to solving the transparency and privacy challenges that institutions face when handling funds of public interest.
 
 ## License
 
