@@ -19,10 +19,12 @@ Introducing **OpenFlow**, the privacy-preserving solution for transparent transa
 
 OpenFlow uses cutting-edge cryptography to balance transparency and privacy in financial transactions:
 
-- Organizations initiate a financial transaction campaign.
-- Donors make contributions that are logged on the blockchain, with identities anonymized.
-- Using zero-knowledge proofs, the total funds raised and allocated are verifiable without revealing individual donor information.
-- The public can access real-time, transparent reports showing that funds have reached their intended destination, ensuring accountability.
+1. Organizations setup and initiate an openflow campaign. They determine on which blockchain the transaction certificates will be minted (e.g., Zksync, Avalanche, Polygon) and establish the payment method (e.g., Mercado Pago).
+2. Transactions from third-parties that send funds to the organization, or receive funds from it, are registered by openflow backend, which generates a JSON containing the details of the transaction email and zero-knowledge proof that the transaction occured, all while keeping identities of these third-parties private.
+3. The JSON associated with each transaction is uploaded via LightHouse to IPFS+FileCoin.
+4. The NFTs associated with these JSONs are minted on the blockchain chosen by the institution.
+5. The public can access real-time, transparent reports showing that funds have reached their intended destination, ensuring accountability.
+
 
 ## About
 
