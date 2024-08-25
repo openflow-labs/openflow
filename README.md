@@ -55,7 +55,7 @@ flowchart TD
 2. **Register Transactions**: Transactions from third-parties that send funds to the organization, or receive funds from it, are registered by OpenFlow backend, which generates a JSON containing the details of the transaction email and zero-knowledge proof that the transaction occured, all while keeping identities of these third-parties private.
 3. **Upload to Decentralized Storage**: The JSON associated with each transaction is uploaded to IPFS and FileCoin via LightHouse.
 4. **Mint NFTs**: NFTs corresponding to these JSONs are minted on the blockchain chosen by the institution.
-5. **Real-time Public Transparency**: The public can access real-time, transparent reports showing how the funds move and eventually reach their intended destination, ensuring accountability.
+5. **Real-time Public Reports**: The public can access real-time, transparent reports showing how the funds move and eventually reach their intended destination, ensuring accountability.
 
 ## About
 
