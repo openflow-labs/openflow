@@ -18,7 +18,7 @@ Find the different parts of this project in the links below.
 
 - **[Demo](https://openflow-frontend.vercel.app/)**: Find in this link a working demo of an OpenFlow campaing on a futbol club fundraiser.
 - **[Front-end Code](https://github.com/openflow-labs/openflow-frontend)**: This directory contains the source code for the front-end application, including UI components, state management, and API blockchain integrations.
-- **[Smart Contract Code](https://github.com/openflow-labs/openflow-contracts)**: This directory includes the NFT smart contract code. This contract mints the NFTs indexing by the CIDs. ([Avalanche Snowtrace Verified Deployment](https://testnet.snowtrace.io/address/0x9433c1ec92889237f923ac77471aa84bf3ee06ab), [Polygon Amoy Verified Deployment](https://amoy.polygonscan.com/address/0xc2190225340ff87588785d451bba2304384ae488)).
+- **[Smart Contract Code](https://github.com/openflow-labs/openflow-contracts)**: This directory includes the NFT smart contract code. This contract mints the NFTs indexing by the CIDs. ([Avalanche Snowtrace Verified Deployment](https://testnet.snowtrace.io/address/0x9433c1ec92889237f923ac77471aa84bf3ee06ab), [Polygon Amoy Verified Deployment](https://amoy.polygonscan.com/address/0xc2190225340ff87588785d451bba2304384ae488), [ZkSync Sepolia Verified Deployment](https://sepolia.explorer.zksync.io/address/0xA5B1d13395A130C24a2625CFbCbBFA9a482eE393)).
 - **[Back-end Code](https://github.com/openflow-labs/openflow-backend)**: This directory contains the source code for the back-end application.
 - **[ZK Circuits Code](https://github.com/openflow-labs/zk-email-verifier-poc)**: This directory contains the code for the circuits and all the zk-knowledge logic.
 
