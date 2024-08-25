@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-Introducing **OpenFlow**, the privacy-preserving solution for transparent financial auditing. Using zero-knowledge proofs, OpenFlow enables organizations to publicly verify financial transactions while keeping the identities of donors and recipients confidential. Whether you're managing charitable donations, political campaigns, or welfare payments, OpenFlow ensures transparency without compromising privacy.
+Introducing **OpenFlow**, the privacy-preserving solution for transparent transaction auditing. Using zero-knowledge proofs, OpenFlow enables organizations to publicly verify financial transactions while keeping the identities of donors and recipients confidential. Whether you're managing charitable donations, political campaigns, or welfare payments, OpenFlow ensures transparency without compromising privacy.
 
 ## Repository Structure
 
