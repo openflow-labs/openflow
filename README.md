@@ -8,7 +8,7 @@
 
 ## Project Overview
 
-Introducing **OpenFlow**, the privacy-preserving solution for transparent transaction auditing. Using zero-knowledge proofs, OpenFlow enables organizations to publicly verify financial transactions while keeping the identities of donors and recipients confidential. Whether you're managing charitable donations, political campaigns, or welfare payments, OpenFlow ensures transparency without compromising privacy.
+Introducing **OpenFlow**, the privacy-preserving solution for transparent transaction auditing. Using zero-knowledge proofs, OpenFlow enables organizations to publicly verify financial transactions while keeping the identities of donors and recipients confidential. Whether you're managing institutional payments, political campaigns, or welfare transactions, OpenFlow ensures transparency without compromising privacy.
 
 ## Repository Structure
 
@@ -19,7 +19,7 @@ Introducing **OpenFlow**, the privacy-preserving solution for transparent transa
 
 OpenFlow uses cutting-edge cryptography to balance transparency and privacy in financial transactions:
 
-1. Organizations setup and initiate an openflow campaign. They determine on which blockchain the transaction certificates will be minted (e.g., Zksync, Avalanche, Polygon) and establish the payment method (e.g., Mercado Pago).
+1. Organizations setup and initiate an OpenFlow campaign. They determine on which blockchain the transaction certificates will be minted (e.g., Zksync, Avalanche, Polygon) and establish the payment method (e.g., Mercado Pago).
 2. Transactions from third-parties that send funds to the organization, or receive funds from it, are registered by openflow backend, which generates a JSON containing the details of the transaction email and zero-knowledge proof that the transaction occured, all while keeping identities of these third-parties private.
 3. The JSON associated with each transaction is uploaded via LightHouse to IPFS+FileCoin.
 4. The NFTs associated with these JSONs are minted on the blockchain chosen by the institution.
