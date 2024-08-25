@@ -19,7 +19,7 @@ Find the different parts of this project in the links below.
 - **[Demo](https://openflow-frontend.vercel.app/)**: Find in this link a working demo of an OpenFlow campaing on a futbol club fundraiser.
 - **[Front-end Code](https://github.com/openflow-labs/openflow-frontend)**: This directory contains the source code for the front-end application, including UI components, state management, and API blockchain integrations.
 - **[Smart Contract Code](https://github.com/openflow-labs/openflow-contracts)**: This directory includes the smart contract code, written in Solidity, that handles the financial transaction logic and zero-knowledge proof verification.
-- **[Back-end Code]**(https://github.com/openflow-labs/openflow-backend): This directory contains the source code for the back-end application.
+- **[Back-end Code](https://github.com/openflow-labs/openflow-backend)**: This directory contains the source code for the back-end application.
 - **[ZK Circuits Code](https://github.com/openflow-labs/zk-email-verifier-poc)**: This directory contains the code for the circuits and all the zk-knowledge logic.
 
 
