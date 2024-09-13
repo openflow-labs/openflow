@@ -12,6 +12,11 @@ OpenFlow is a tool designed to ensure transparency in financial transactions whi
 
 Whether you're managing institutional payments, political campaigns, or welfare transactions, OpenFlow ensures transparency without compromising privacy.
 
+## Demo
+
+Explore the [demo video](https://www.youtube.com/watch?v=i-D_0pHmwQ8) and view an instance of the app [here](https://openflow-frontend.vercel.app/), showcasing real donation data from the Independiente Football Club fundraiser led by Santi Maratea in 2023. You can view donation amounts, dates, and verify each transaction made via Mercado Pago, all while keeping donor data confidential.
+
+
 ## Repository Structure
 
 Find the different parts of this project in the links below.
